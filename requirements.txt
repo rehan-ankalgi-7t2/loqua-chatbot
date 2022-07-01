@@ -1,0 +1,6 @@
+torch 
+torchvision 
+torchaudio
+nltk
+flask
+numpy
